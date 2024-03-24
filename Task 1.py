@@ -1,0 +1,29 @@
+print (23+37)
+a=23
+b=37
+print(a+b)
+c=a+b
+print(c)
+print(type(a))
+a=55
+b=5.55
+c=("hello")
+d=True
+e=5+5j
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+f=int(input("enter the value of a"))
+print(f)
+print(type(f))
+g=3
+h=4
+print(g*h)
+print(g**h)
